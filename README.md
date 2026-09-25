@@ -1,1 +1,1 @@
-# what_defines_a_group_of_friends
+# AGGREGATED DATA TO REPLICATE THE RESULTS IN PAPER https://arxiv.org/abs/2512.16399
